@@ -63,6 +63,7 @@ public class Rectangle {
         return perimeter;
     }
     public void returnValues(){
+        System.out.println("masteroo");
         System.out.println("Rectangle area is: " + getArea() + "zmiany zmiany");
         System.out.println("Rectangle perimeter is "+ getPerimeter() + " dupa dupa ");
         System.out.println("dddd");
