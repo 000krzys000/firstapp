@@ -66,6 +66,7 @@ public class Rectangle {
         System.out.println("Rectangle area is: " + getArea() + "zmiany zmiany");
         System.out.println("Rectangle perimeter is "+ getPerimeter() + " dupa dupa ");
         System.out.println("dddd");
+        System.out.println("thirsty");
     }
 
 
